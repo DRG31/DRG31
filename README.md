@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
 <div align="center">
-  <img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47ue3ciay6j10022gbo6nce2keaem6a3sckarsi1rg&rid=giphy.gif&ct=g">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGw1c3NuMzltMGhheHR0dmFvNnp1eHdsbW5jcDF2ejJteHg1MW9rNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif">
 </div>
 
 ### :woman_technologist: About Me : 
