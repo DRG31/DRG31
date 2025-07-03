@@ -8,7 +8,7 @@
 </div>
 
 ### :woman_technologist: About Me : 
-I am currently a CS Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who is:
+I am a Software & Data Science Graduate, currently: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who is:
 - :telescope: Working on a lot of stuff!
   
 - :bulb: Expert in Web & App Development, Data Analysis, Machine Learning, Cybersecurity, AI (Deepfake)  Projects.  
