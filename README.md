@@ -16,7 +16,7 @@ I am a Software & Data Science Graduate <img src="https://media.giphy.com/media/
 - :seedling: Exploring AWS, Full-Stack tools and Supabase.
 
 - :zap: Listening to music & watching Netflix! Action Thrillers in my free time. 
-- :mailbox: How to reach me: gdev2933@gmail.com
+- :mailbox: How to reach me: dev.gupta@myyahoo.com
 
   <a href="https://www.linkedin.com/in/drg31/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
